@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 #networkFileRW.py
-#Pamela Brauda
-#Thursday, March 3, 2022
+#Kayleen Rosales
+#Tuesday, November 24, 2026
+#I may be a bit confused on the "reflects the changes in your GPA 8 solution"
+#I never saw a GPA 8 assignment
+#so I'm not sure if I'm supposed to change stuff in here
+
+
 #Update routers and switches;
 #read equipment from a file, write updates & errors to file
 
